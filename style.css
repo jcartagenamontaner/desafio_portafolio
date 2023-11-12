@@ -1,0 +1,49 @@
+ 
+ nav {
+    background-color: #D24C7C
+    ;
+
+ }
+ #Hero-Section {
+    background-image: url("/assets/img/bg-hero.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    margin: auto;
+  }
+.btn {
+   background-color: #D24C7C;
+  
+  }
+
+i {
+  color: #D24C7C;
+}
+
+#Acerca-de-mi h2{
+    color: #D24C7C;
+}
+.row h3{
+    color: #D24C7C;
+}
+
+#Mi-experiencia{
+    background-color: #D24C7C;
+}
+#Mi-experiencia .image-top {
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+  }
+  #Portafolio{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    background-image: url(/assets/img/portafolio.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+
+  }
